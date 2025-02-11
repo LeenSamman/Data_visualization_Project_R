@@ -26,8 +26,14 @@ Our project includes various **data visualizations**, following best practices f
 ## **Goal of the Analysis**  
 By analyzing and visualizing key features, we aim to **predict student outcomes** and identify potential dropout risks based on performance trends.  
 
-## **Team**  
-👥 **Zaina Abu Nasser, Layan Balbisi, Rama Amyrh**  
-🎓 Special thanks to **Prof. Omar Alkadi**  
+## 👥 **Team**  
+- Leen Samman
+- Zaina Abu Nasser
+- Layan Balbisi
+- Rama Amayrh
+
+# Aknowlegment
+
+🎓 This project done for our Data Visualization course .Special thanks to **Prof. Omar Alkadi**  
 
 
