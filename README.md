@@ -6,6 +6,13 @@
 
 This Shiny app analyzes student performance to predict whether a student will **drop out, graduate, or remain enrolled**. The project was developed for our **data visualization course** and received the **Best Project** award.  
 
+## Repo Files:
+- FinalDV_Shiny.html: the plots in R notebook before implementing them to our Shiny app in html format.
+- FinalDV_Shiny.pdf: the plots in R notebook before implementing them to our Shiny app in pdf format.
+- Student_Performance_Project_document.pdf: The documentation for our project
+- Student_dropout_analysis.xlsx: The data set updated.
+- TestShiny1.zip: all the files contain app.R which is the shiny app code. you should check the that you have the same data and a proper version of shiny to run the code.
+
 ## **Project Overview**  
 Our analysis explores student performance using **various visualization techniques** while ensuring data accuracy through careful encoding and mapping.  
 
